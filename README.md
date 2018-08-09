@@ -1,1 +1,2 @@
 # amazeinn
+pwa-amazeinn
