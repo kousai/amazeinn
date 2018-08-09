@@ -1,2 +1,3 @@
 # amazeinn
-pwa-amazeinn
+
+Front-end
