@@ -1,6 +1,6 @@
 {
   "name": "vue-amazeinn",
-  "short_name": "Vue AMazeInn",
+  "short_name": "AMazeInn",
   "icons": [
     {
       "src": "/amazeinn/static/img/icons/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/amazeinn/index.html",
+  "start_url": "/amazeinn/",
   "display": "standalone",
   "background_color": "#9575CD",
   "theme_color": "#9575CD"
